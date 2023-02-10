@@ -13,15 +13,15 @@ I'm a self-taught Python programmer and Backend developer.
 <code><img height="20" alt="javascript" src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png"></code>   
 
 
-| <a href="https://github.com/obusc-ted/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=obusc-ted&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="obusc-ted's github stats" /></a> | <a href="https://github.com/obusc-ted/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obusc-ted&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/obfusc-ted/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=obfusc-ted&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="obfusc-ted's github stats" /></a> | <a href="https://github.com/obfusc-ted/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obfusc-ted&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
 
 
-<a href="https://github.com/obusc-ted/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=obusc-ted&repo=github-readme-stats&theme=buefy" />
+<a href="https://github.com/obfusc-ted/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=obfusc-ted&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/obusc-ted/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=obusc-ted&repo=anuraghazra.github.io&theme=buefy" />
+<a href="https://github.com/obfusc-ted/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=obfusc-ted&repo=anuraghazra.github.io&theme=buefy" />
 </a>
