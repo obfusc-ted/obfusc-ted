@@ -8,7 +8,7 @@ I'm a self-taught Python programmer and Backend developer.
 
 - ❤️ Starting open source
 
-- 💬 Add me on Discord if you have any questions [cheer#0001](https://discord.com/users/1023840747906154556/)
+- 💬 Add me on Discord if you have any questions [cheer#0002](https://discord.com/users/1023840747906154556/)
 
 <code><img height="20" alt="javascript" src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png"></code>   
 
